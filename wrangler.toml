@@ -1,9 +1,13 @@
-name = "vless-cf" # todo
+name = "damage" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2025-02-24"
+account_id = "1141879251a6b13f7addb28d0837e353"
+[[kv_namespaces]]
+binding = "bbb-tes"
+id = "6ade2e254d6247b48e401466979b07da"
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
