@@ -4,7 +4,7 @@ name = "damage" # todo
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2025-02-24"
-account_id = "1141879251a6b13f7addb28d0837e353"
+account_id = "8b78907ad6194f70cc7f2c4a5b712ccf"
 [[kv_namespaces]]
 binding = "bbb-tes"
 id = "6ade2e254d6247b48e401466979b07da"
